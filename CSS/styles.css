@@ -4,12 +4,16 @@ body
     text-align: center;
     font-family: "Arial";
 }
-.background
-{
-    background-color: blueviolet;
-    border-radius: 15px;
-}
 .pan
 {
     color: black;
+}
+#container
+{
+    background-color: cornflowerblue;
+    border-radius: 15px;
+    padding: 1em;
+    width: 70%;
+    border: 1px solid gray;
+    margin: 0 auto;
 }
