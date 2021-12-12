@@ -4,3 +4,8 @@ body
     text-align: center;
     font-family: "Arial";
 }
+.background
+{
+    background-color: blueviolet;
+    border-radius: 15px;
+}
